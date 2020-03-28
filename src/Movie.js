@@ -8,7 +8,7 @@ function Movie({ id, title, rating, runtime, genres, summary, poster }) {
       <img src={poster} alt={title} title={title} />
       <div className="movie_data">
         <h3 className="movie__title">{title}</h3>
-        <h5 className="movie__rating runtime">
+        <h5 className="movie__rating">
           ★{rating} / Runtime: {runtime}
         </h5>
         <ul className="movie__genres">
