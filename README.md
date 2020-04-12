@@ -22,7 +22,4 @@ Demo Link만 클릭하세요.
 
 ## What I used for this project 
 
-- [X] HTML
-- [X] CSS
-- [X] Vanilla JS
 - [X] React
