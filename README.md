@@ -17,8 +17,8 @@ This is a website that recommends movies according to ratings.
 
 ## Customization: How to run this project
 
-Very simple. You Just click Demo Link.  
-Demo Link만 클릭하세요.
+Very simple. Click [Movie App](https://wook2124.github.io/movie_app/) and Enjoy!  
+위 링크를 클릭하고 사용하면 됩니다.
 
 ## What I used for this project 
 
