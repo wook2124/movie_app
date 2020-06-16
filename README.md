@@ -12,7 +12,7 @@ React JS Fundamentals Course `2020.03.11. ~ 2020.04.01`
 
 ## Project Description 
 
-This is a website that recommends movies according to ratings.  
+This is a website that recommend movies according to ratings.  
 평점에 맞게 영화를 추천해주는 웹페이지입니다.
 
 ## Customization: How to run this project
