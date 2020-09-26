@@ -23,4 +23,7 @@ Very simple. Click [Movie App](https://wook2124.github.io/movie_app/) and Enjoy!
 
 ## What I used for this project 
 
+- [X] HTML
+- [X] CSS
+- [X] JavaScript
 - [X] React
